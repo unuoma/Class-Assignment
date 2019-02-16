@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dff3a7a9-bbb7-42b8-b419-1765377694e6" name="Default Changelist" comment="Hello proffesor">
-      <change beforePath="$PROJECT_DIR$/web/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/web/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/views/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/views/header.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/views/index.twig" beforeDir="false" afterPath="$PROJECT_DIR$/web/views/index.twig" afterDir="false" />
-    </list>
+    <list default="true" id="dff3a7a9-bbb7-42b8-b419-1765377694e6" name="Default Changelist" comment="Hello proffesor" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -170,7 +166,7 @@
       <workItem from="1549732973764" duration="3427000" />
       <workItem from="1549841820211" duration="5876000" />
       <workItem from="1549931398789" duration="3822000" />
-      <workItem from="1550292431544" duration="913000" />
+      <workItem from="1550292431544" duration="2457000" />
     </task>
     <task id="LOCAL-00001" summary="Hello proffesor">
       <created>1549742978158</created>
@@ -183,7 +179,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14038000" />
+    <option name="totallyTimeSpent" value="15582000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="33" width="1279" height="596" extended-state="0" />
