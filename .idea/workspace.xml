@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dff3a7a9-bbb7-42b8-b419-1765377694e6" name="Default Changelist" comment="Hello proffesor">
-      <change beforePath="$PROJECT_DIR$/web/views/index.twig" beforeDir="false" afterPath="$PROJECT_DIR$/web/views/index.twig" afterDir="false" />
+    <list default="true" id="dff3a7a9-bbb7-42b8-b419-1765377694e6" name="Default Changelist" comment="Added an Image">
+      <change afterPath="$PROJECT_DIR$/web/images/shaking.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/stylesheets/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/web/stylesheets/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/views/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/views/header.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/views/layout.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/views/layout.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,8 +23,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="271">
-              <caret line="21" selection-start-line="21" selection-end-line="21" />
+            <state relative-caret-position="180">
+              <caret line="12" column="26" lean-forward="true" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -30,13 +34,18 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/views/index.twig">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            <state relative-caret-position="272">
+              <caret line="105" column="9" selection-start-line="105" selection-start-column="2" selection-end-line="105" selection-end-column="9" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/images/shaking.jpg">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -46,19 +55,36 @@
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/views/layout.html">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/web/views/nav.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/views/nav.html">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/web/stylesheets/main.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/views/header.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="15">
-              <caret line="1" selection-start-line="1" selection-end-line="2" />
+              <caret line="1" column="208" selection-start-line="1" selection-start-column="208" selection-end-line="1" selection-end-column="208" />
             </state>
           </provider>
         </entry>
@@ -67,13 +93,17 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SIGN_OFF_COMMIT" value="true" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/web/index.php" />
         <option value="$PROJECT_DIR$/web/views/header.html" />
+        <option value="$PROJECT_DIR$/web/stylesheets/main.css" />
+        <option value="$PROJECT_DIR$/web/views/layout.html" />
         <option value="$PROJECT_DIR$/web/views/index.twig" />
+        <option value="$PROJECT_DIR$/web/views/nav.html" />
       </list>
     </option>
   </component>
@@ -100,7 +130,7 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="67" />
-    <option name="y" value="33" />
+    <option name="y" value="35" />
     <option name="width" value="1279" />
     <option name="height" value="596" />
   </component>
@@ -177,7 +207,8 @@
       <workItem from="1549732973764" duration="3427000" />
       <workItem from="1549841820211" duration="5876000" />
       <workItem from="1549931398789" duration="3822000" />
-      <workItem from="1550292431544" duration="3353000" />
+      <workItem from="1550292431544" duration="9575000" />
+      <workItem from="1550360202511" duration="16034000" />
     </task>
     <task id="LOCAL-00001" summary="Hello proffesor">
       <created>1549742978158</created>
@@ -186,16 +217,73 @@
       <option name="project" value="LOCAL" />
       <updated>1549742978158</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Inserted table into project">
+      <created>1550301568914</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1550301568914</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Updated topic of web page">
+      <created>1550360507906</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1550360507911</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Included first paragraph">
+      <created>1550366859289</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1550366859289</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Changed header size">
+      <created>1550368844471</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1550368844471</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Included my second paragraph">
+      <created>1550371651072</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1550371651072</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Added an Image">
+      <created>1550373507217</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1550373507217</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Included 3rd paragraph">
+      <created>1550375786087</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1550375786087</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Added navigation bar with hyperlink">
+      <created>1550376914662</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1550376914662</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16478000" />
+    <option name="totallyTimeSpent" value="38734000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="67" y="33" width="1279" height="596" extended-state="0" />
+    <frame x="67" y="35" width="1279" height="596" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25788197" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.261924" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -209,7 +297,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.4987874" weight="0.32905984" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="PHP-CGI Server" order="10" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.497979" visible="true" weight="0.32905984" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.497979" weight="0.32905984" />
       <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.5012126" side_tool="true" weight="0.32905984" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -284,7 +372,15 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Hello proffesor" />
-    <option name="LAST_COMMIT_MESSAGE" value="Hello proffesor" />
+    <MESSAGE value="Inserted table into project" />
+    <MESSAGE value="Updated topic of web page" />
+    <MESSAGE value="Included first paragraph" />
+    <MESSAGE value="Changed header size" />
+    <MESSAGE value="Included my second paragraph" />
+    <MESSAGE value="Added an Image" />
+    <MESSAGE value="Included 3rd paragraph" />
+    <MESSAGE value="Added navigation bar with hyperlink" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added navigation bar with hyperlink" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/web/.htaccess">
@@ -293,30 +389,48 @@
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/views/layout.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/views/nav.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/web/views/header.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
-          <caret line="1" selection-start-line="1" selection-end-line="2" />
+          <caret line="1" column="208" selection-start-line="1" selection-start-column="208" selection-end-line="1" selection-end-column="208" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/web/stylesheets/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/views/layout.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/images/shaking.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/web/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="271">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        <state relative-caret-position="180">
+          <caret line="12" column="26" lean-forward="true" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web/views/index.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        <state relative-caret-position="272">
+          <caret line="105" column="9" selection-start-line="105" selection-start-column="2" selection-end-line="105" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/views/nav.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
