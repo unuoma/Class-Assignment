@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dff3a7a9-bbb7-42b8-b419-1765377694e6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web/views/index.twig" beforeDir="false" afterPath="$PROJECT_DIR$/web/views/index.twig" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,8 +28,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/web/views/index.twig">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="98">
-              <caret line="36" column="25" lean-forward="true" selection-start-line="36" selection-start-column="25" selection-end-line="36" selection-end-column="25" />
+            <state relative-caret-position="128">
+              <caret line="101" column="38" lean-forward="true" selection-start-line="101" selection-start-column="38" selection-end-line="101" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -104,18 +103,6 @@
               <item name="web" type="462c0819:PsiDirectoryNode" />
               <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="php-getting-started" type="b2602c69:ProjectViewProjectNode" />
-              <item name="php-getting-started" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="stylesheets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="php-getting-started" type="b2602c69:ProjectViewProjectNode" />
-              <item name="php-getting-started" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -169,7 +156,7 @@
       <workItem from="1550360202511" duration="16105000" />
       <workItem from="1550456525074" duration="6418000" />
       <workItem from="1550463045511" duration="5505000" />
-      <workItem from="1550520718565" duration="6317000" />
+      <workItem from="1550520718565" duration="7402000" />
     </task>
     <task id="LOCAL-00001" summary="Hello proffesor">
       <created>1549742978158</created>
@@ -290,15 +277,21 @@
       <option name="project" value="LOCAL" />
       <updated>1550525848544</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="uploaded image">
+      <created>1550530559802</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1550530559802</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="57045000" />
+    <option name="totallyTimeSpent" value="58130000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="27" width="1299" height="636" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26968974" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -476,7 +469,8 @@
     <MESSAGE value="Included information for contact us" />
     <MESSAGE value="Added more images" />
     <MESSAGE value="Changed images" />
-    <option name="LAST_COMMIT_MESSAGE" value="Changed images" />
+    <MESSAGE value="uploaded image" />
+    <option name="LAST_COMMIT_MESSAGE" value="uploaded image" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/web/images/shaking.jpg">
@@ -557,8 +551,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/web/views/index.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="98">
-          <caret line="36" column="25" lean-forward="true" selection-start-line="36" selection-start-column="25" selection-end-line="36" selection-end-column="25" />
+        <state relative-caret-position="128">
+          <caret line="101" column="38" lean-forward="true" selection-start-line="101" selection-start-column="38" selection-end-line="101" selection-end-column="38" />
         </state>
       </provider>
     </entry>
